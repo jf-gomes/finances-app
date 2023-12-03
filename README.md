@@ -1,7 +1,7 @@
 # finances-app
 A finances control app made with JavaScript and React Native.
 
-This is an idea for an app that allow you to control your finances by adding your gains and expenses. That way you can have a general view of your earning per month.
+This is an idea for an app that allows you to control your finances by adding your gains and expenses. That way you can have a general view of your earning per month.
 
 ## Main features
 
